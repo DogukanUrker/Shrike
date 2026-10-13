@@ -1,0 +1,7 @@
+data/
+work/
+llama.cpp/
+tools/d1x
+__pycache__/
+*.gguf
+*.safetensors
