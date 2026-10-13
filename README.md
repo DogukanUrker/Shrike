@@ -52,6 +52,10 @@ a 12 GB gpu is enough. healing IQ1_S takes ~2 h on an rtx 3060, the evals ~10 mi
 
 ![Shrike IQ1_S vs d1-omni-600M](results/h2h.png)
 
+## independent check
+
+[BenchKit](https://github.com/DogukanUrker/BenchKit) runs (code-verifier, GPQA): see `results/benchkit.md`.
+
 ## evals
 
 english (13 tasks x 100), doom frames (240, engine labels), multilingual (xnli, paws-x, sentiment, ~1300 decisions),
